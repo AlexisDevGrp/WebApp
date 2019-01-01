@@ -1,2 +1,2 @@
 # WebApp
-Build a real Web app with GO
+New photo gallery for GO learning
