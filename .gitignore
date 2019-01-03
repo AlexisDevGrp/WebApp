@@ -38,3 +38,10 @@ Thumbs.db
 
 # ignore our executable
 WebApp
+fresh
+
+# temporary directory
+/tmp
+
+# workspace visual code
+.vscode/
